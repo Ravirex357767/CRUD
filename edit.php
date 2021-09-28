@@ -37,7 +37,7 @@
 
             <input type="email" name="email" value="<?php echo $email;?>" class="form-control col-md-5" placeholder="Email" required><br>
 
-            <input type="password" name="password" value="<?php echo $email;?>" class="form-control col-md-5" placeholder="Password" required ><br>
+            <input type="password" name="password" value="<?php echo $password;?>" class="form-control col-md-5" placeholder="Password" required ><br>
 
             <button class="btn btn-success col-md-5" name="updbtn">Update</button><br>
         </form>
